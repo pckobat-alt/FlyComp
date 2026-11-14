@@ -1,6 +1,6 @@
 {
-  "name": "",
-  "description": "",
-  "requestFramePermissions": [],
-  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+  "name": "AeroBalon Ops",
+  "description": "Sıcak hava balonu işletmeleri için çoklu şirket, SHGM evrak/eğitim takibi, çevrimdışı kokpit telemetri ve GPX uçuş kayıt platformu.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": []
 }
